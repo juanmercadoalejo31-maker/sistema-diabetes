@@ -59,14 +59,14 @@ export default function HomePage() {
                 >
                   HOME
                   <br />
-                  Nuestro sistema 
+                  Sistema de diabetes
                 </Typography>
 
                 <Typography
                   variant="h6"
                   sx={{ opacity: 0.75, maxWidth: 500 }}
                 >
-                  Descripción...
+                  Autocontrol y ayuda hacia personas con diabetes
                 </Typography>
 
                 <Stack direction="row" spacing={2}>
